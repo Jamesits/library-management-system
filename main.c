@@ -12,7 +12,7 @@
 #include "misc.h"
 #include "debug/debug.h"
 #include "types.h"
-#include "arrayutils.h"
+#include "utils/arrayutils.h"
 #include "controller/controller.h"
 #include "interface/interface.h"
 #include "database/database.h"
